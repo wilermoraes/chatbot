@@ -2,6 +2,14 @@
 
 **Arquitetura da Aplicação**
 
+![plot](https://raw.githubusercontent.com/wilermoraes/chatbot/master/Arquitetura.jpg)
+
+
+
+
+![image](https://github.com/wilermoraes/chatbot/blob/master/9%20-%20Arquitetura%20Chatbot.png?raw=true)
+
+
 ---
 
 Abaixo as imagens do protótipo do chatbot com as suas devidas explicações
