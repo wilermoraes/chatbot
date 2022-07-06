@@ -10,6 +10,8 @@ O fluxo ocorre da seguinte maneira:
 3) A função serveless irá se comunicar com a API do Chatbot;
 4) A API do Chatbot irá realizar as tarefas solicitadas e retornará para o telegram.
 
+Será utilizado função serveless para abstrair a implementação do Telegram. Isso facilita na hora de adicionar uma nova interface de comunicação (com o WhatsApp por exemplo), sendo necessário apenas a criação de um nova função serveless.
+
 ---
 
 ## Arquitetura da API ChatBot
