@@ -2,7 +2,7 @@
 
 **Arquitetura da Aplicação**
 
-![plot](https://raw.githubusercontent.com/wilermoraes/chatbot/master/Arquitetura.jpg)
+![plot](https://github.com/wilermoraes/chatbot/blob/master/10-%20Arquitetura%20Geral.jpg?raw=true)
 
 
 
