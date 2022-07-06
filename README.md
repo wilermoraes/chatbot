@@ -4,7 +4,11 @@
 
 ![plot](https://github.com/wilermoraes/chatbot/blob/master/10-%20Arquitetura%20Geral.jpg?raw=true)
 
-
+O fluxo ocorre da seguinte maneira:
+1) Os usuários irão enviar uma mensagem/requisição através do aplicativo telegram (móvel ou desktop);
+2) A requisição passa pela API do Telegram e, em seguida, um webhook é acionado enviando a requisição para a função serveless;
+3) A função serveless irá se comunicar com a API do Chatbot;
+4) A API do Chatbot irá realizar as tarefas solicitadas e retornará para o telegram.
 
 
 ![image](https://github.com/wilermoraes/chatbot/blob/master/9%20-%20Arquitetura%20Chatbot.png?raw=true)
