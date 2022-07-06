@@ -1,5 +1,9 @@
 # Chatbot Controle de Atendimento de Ordens de Serviço
 
+**Arquitetura da Aplicação**
+
+---
+
 Abaixo as imagens do protótipo do chatbot com as suas devidas explicações
 
 **Tela Inicial**  
