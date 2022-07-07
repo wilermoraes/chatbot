@@ -20,7 +20,7 @@ Será utilizado função serveless para abstrair a implementação do Telegram. 
 
 O projeto utilizará uma plataforma de nuvem (Google Cloud, Azure ou AWS...) e os seguintes recursos:
 1) Serveless Function - Modelo de requisição sob demanda que aloca recursos somente quando é solicitado; 
-2) App Services (API Chatbot) - Hospedagem da API do chatbot em si na nuvem; 
+2) App Services - Hospedagem da API do chatbot na nuvem; 
 3) SQL Database - Banco de dados hospedado na nuvem. 
 
 A arquitetura da API do ChatBot segue o seguinte padrão:
